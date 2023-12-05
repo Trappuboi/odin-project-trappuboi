@@ -1,0 +1,5 @@
+hello world txt
+
+this is a new project testing in ODIN PROJECT
+
+i absolutely have no idea what im doing!
